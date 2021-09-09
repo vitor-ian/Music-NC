@@ -301,6 +301,7 @@ h2{
 #logo{
     height: 40px;
     margin: 10px 20px;
+    pointer-events: none;
 }
 
 #logo:hover{
