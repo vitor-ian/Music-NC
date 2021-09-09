@@ -68,6 +68,7 @@ h2{
     text-align: center;
     align-items: center;
     justify-content: center;
+    pointer-events: none;
 }
 
 .img-banner{
@@ -105,6 +106,7 @@ h2{
     width: 200px;
     border-radius: 10px;
     margin-top: 10px;
+    pointer-events: none;
 }
 
 .name-music{
@@ -177,6 +179,7 @@ h2{
     width: 30px;
     position: relative;
     right: 30px;
+    pointer-events: none;
 }
 
 #img-user:hover{
@@ -241,6 +244,7 @@ h2{
 #capa-mus-pla{
     width: 90px;
     margin-right: 10px;
+    pointer-events: none;
 }
 
 /*PLAYER*/
