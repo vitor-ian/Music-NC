@@ -254,6 +254,7 @@ h2{
 #bar-player{
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 /*CONFIG MUSIC*/
@@ -380,6 +381,7 @@ h2{
 .esp-esq{
     margin-left: 100px;
 }
+
 
 /*===========================CONTEUDO PRINCIPAL===========================*/
 
