@@ -1,2 +1,2 @@
 # Music-Nc
- https://vitor-ian.github.io/Music-NC/
+ https://vitor-ian.github.io/Music-NC
