@@ -72,8 +72,10 @@ h2{
 }
 
 .img-banner{
-    width: 1000px;
     height: auto;
+    width: 73vw;
+    height: auto;
+    object-fit: cover;
 }
 
 /*ITEM MUSICA*/
